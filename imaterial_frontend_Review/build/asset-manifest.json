@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "./static/js/main.df251c3d.js",
+    "static/media/loginBackground.png": "./static/media/loginBackground.0ba889bf95b2d456f3ee.png",
+    "static/media/exImg.png": "./static/media/exImg.e4edaa096961140106e6.png",
+    "index.html": "./index.html",
+    "main.df251c3d.js.map": "./static/js/main.df251c3d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.df251c3d.js"
+  ]
+}
